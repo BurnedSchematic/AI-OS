@@ -1,0 +1,4 @@
+arm_64bit=0
+disable_commandline_tags=1
+enable_uart=1
+gpu_mem=64
